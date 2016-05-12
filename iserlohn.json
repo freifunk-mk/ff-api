@@ -1,0 +1,30 @@
+{
+  "name": "Freifunk Iserlohn",
+  "url": "http://freifunk-iserlohn.de",
+  "location": {
+    "city": "Iserlohn",
+    "country": "DE",
+    "lat": 51.37381641041741,
+    "lon": 7.698497772216798
+  },
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map.freifunk-iserlohn.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "state": {
+    "lastchange": "2016-05-12T20:30:00.562Z",
+    "focus": []
+  },
+  "api": "0.4.13",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
