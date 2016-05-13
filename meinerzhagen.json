@@ -13,7 +13,7 @@
   "metacommunity": "Eulenfunk",
   "state": {
     "nodes": 85,
-    "lastchange": "2016-05-13T21:23:11.881Z",
+    "lastchange": "2016-05-13T21:39:49.015Z",
     "focus": []
   },
   "nodeMaps": [
@@ -21,6 +21,18 @@
       "url": "https://map-meinerzhagen.freifunk-mk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-meinerzhagen.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-meinerzhagen.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
     }
   ],
   "techDetails": {
