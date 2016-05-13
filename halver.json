@@ -1,0 +1,56 @@
+{
+  "name": "Freifunk Havler",
+  "url": "http://freifunk-halver.de/",
+  "location": {
+    "city": "Halver",
+    "country": "DE",
+    "lat": 51.187440063500084,
+    "lon": 7.4987268447875985
+  },
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "metacommunity": "Eulenfunk",
+  "state": {
+    "nodes": 25,
+    "lastchange": "2016-05-13T22:07:20.840Z",
+    "focus": []
+  },
+  "nodeMaps": [
+    {
+      "url": "https://mk.map.eulenfunk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon2016.1.2",
+      "url": "http://firmware.freifunk-mk.de/halver/stable/",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational",
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.13"
+}
