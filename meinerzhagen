@@ -1,0 +1,44 @@
+{
+  "name": "Freifunk Meinerzhagen",
+  "url": "http://freifunk-mk.de/",
+  "location": {
+    "city": "Meinerzhagen",
+    "country": "DE",
+    "lat": 51.10761773499613,
+    "lon": 7.637214660644531
+  },
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "metacommunity": "Eulenfunk",
+  "state": {
+    "nodes": 85,
+    "lastchange": "2016-05-13T21:23:11.881Z",
+    "focus": []
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map.freifunk-iserlohn.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon2016.1.2",
+      "url": "http://firmware.freifunk-mk.de/meinerzhagen/stable/",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational",
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.13"
+}
