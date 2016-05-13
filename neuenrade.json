@@ -1,0 +1,56 @@
+{
+  "name": "Freifunk Neuenrade",
+  "url": "http://freifunk-neuenrade.de/",
+  "location": {
+    "city": "Neuenrade",
+    "country": "DE",
+    "lat": 51.286399870358636,
+    "lon": 7.7817535400390625
+  },
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "metacommunity": "Eulenfunk",
+  "state": {
+    "nodes": 54,
+    "lastchange": "2016-05-13T21:36:09.608Z",
+    "focus": []
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map-neuenrade.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-neuenrade.freifunk-mk.de/",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-neuenrade.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon2016.1.2",
+      "url": "http://firmware.freifunk-mk.de/neuenrade/stable/",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational",
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.13"
+}
