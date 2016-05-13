@@ -18,7 +18,7 @@
   },
   "nodeMaps": [
     {
-      "url": "https://map.freifunk-iserlohn.de/data/nodelist.json",
+      "url": "https://map-meinerzhagen.freifunk-mk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
     }
