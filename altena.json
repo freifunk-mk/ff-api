@@ -1,0 +1,56 @@
+{
+  "name": "Freifunk Altena",
+  "url": "http://freifunk-altena.de/",
+  "location": {
+    "city": "Altena",
+    "country": "DE",
+    "lat": 51.2992546478561,
+    "lon": 7.672405242919922
+  },
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "metacommunity": "Eulenfunk",
+  "state": {
+    "nodes": 111,
+    "lastchange": "2016-05-13T21:48:26.996Z",
+    "focus": []
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map-altena.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-altena.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-altena.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon2016.1.2",
+      "url": "http://firmware.freifunk-mk.de/altena/stable/",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational",
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.13"
+}
