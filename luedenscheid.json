@@ -1,0 +1,56 @@
+{
+  "name": "Freifunk Lüdenscheid",
+  "url": "http://freifunk-luedenscheid.de/",
+  "location": {
+    "city": "Lüdenscheid",
+    "country": "DE",
+    "lat": 51.21587,
+    "lon": 7.63377
+  },
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "metacommunity": "Eulenfunk",
+  "state": {
+    "nodes": 85,
+    "lastchange": "2016-05-22T21:26:43.015Z",
+    "focus": []
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map-luedenscheid.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-luedenscheid.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-luedenscheid.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon2016.1.2",
+      "url": "http://firmware.freifunk-mk.de/luedenscheid/stable/",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational",
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.13"
+}
