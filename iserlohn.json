@@ -4,17 +4,28 @@
   "location": {
     "city": "Iserlohn",
     "country": "DE",
-    "lat": 51.37381641041741,
-    "lon": 7.698497772216798
+    "lat": 51.373816410417,
+    "lon": 7.6984977722168,
+    "address": {
+      "Name": "Chaosconsulting e.V.",
+      "Street": "Alter Rathausplatz 12",
+      "Zipcode": "58636"
+    }
   },
   "contact": {
-    "email": "info@freifunk-mk.de"
+    "email": "info@freifunk-mk.de",
+    "facebook": "https://www.facebook.com/freifunkiserlohn"
   },
   "metacommunity": "Eulenfunk",
   "state": {
     "nodes": 130,
-    "lastchange": "2016-05-24T16:26:43.015Z",
-    "focus": []
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2016-05-24T14:30:40.102Z"
   },
   "nodeMaps": [
     {
@@ -23,10 +34,21 @@
       "technicalType": "nodelist"
     }
   ],
-  "api": "0.4.13",
+  "socialprojects": {
+    "number": 5
+  },
   "techDetails": {
-    "routing": [],
-    "updatemode": [],
+    "firmware": {
+      "url": "http://firmware.freifunk-mk.de",
+      "vpnaccess": "fwimage"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
     "legals": []
-  }
+  },
+  "api": "0.4.13"
 }
