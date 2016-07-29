@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Lüdenscheid",
-  "url": "http://freifunk-luedenscheid.de/",
+  "url": "http://freifunk-luensche.de/",
   "location": {
     "city": "Lüdenscheid",
     "country": "DE",
@@ -10,7 +10,7 @@
   "contact": {
     "email": "info@freifunk-mk.de"
   },
-  "metacommunity": "Eulenfunk",
+  "metacommunity": "Fichtenfunk",
   "state": {
     "nodes": 70,
     "lastchange": "2016-05-22T21:26:43.015Z",
