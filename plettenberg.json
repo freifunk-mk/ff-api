@@ -10,7 +10,7 @@
   "contact": {
     "email": "info@freifunk-mk.de"
   },
-  "metacommunity": "Eulenfunk",
+  "metacommunity": "Fichtenfunk",
   "nodeMaps": [
     {
       "url": "https://mk.map.eulenfunk.de/data/nodelist.json",
