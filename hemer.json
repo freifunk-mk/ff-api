@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Hemer",
-  "url": "http://freifunk-hemer.de/",
+  "url": "http://freifunk-felsenmeer.de/",
   "location": {
     "city": "Hemer",
     "country": "DE",
@@ -10,7 +10,7 @@
   "contact": {
     "email": "info@freifunk-mk.de"
   },
-  "metacommunity": "Eulenfunk",
+  "metacommunity": "Fichtenfunk",
   "state": {
     "nodes": 32,
     "lastchange": "2016-05-13T21:59:12.549Z",
