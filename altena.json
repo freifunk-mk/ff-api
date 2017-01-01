@@ -4,17 +4,20 @@
   "location": {
     "city": "Altena",
     "country": "DE",
-    "lat": 51.2992546478561,
-    "lon": 7.672405242919922
+    "lat": 51.299254647856,
+    "lon": 7.6724052429199
   },
   "contact": {
     "email": "info@freifunk-mk.de"
   },
   "metacommunity": "Fichtenfunk",
   "state": {
-    "nodes": 111,
-    "lastchange": "2016-05-13T21:48:26.996Z",
-    "focus": []
+    "nodes": 110,
+    "focus": [
+      "Public Free Wifi",
+      "Free internet access"
+    ],
+    "lastchange": "2017-01-01T22:58:35.954Z"
   },
   "nodeMaps": [
     {
@@ -52,5 +55,5 @@
       "vpninternational"
     ]
   },
-  "api": "0.4.13"
+  "api": "0.4.14"
 }
