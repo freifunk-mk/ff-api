@@ -18,15 +18,26 @@
   },
   "metacommunity": "Fichtenfunk",
   "state": {
-    "nodes": 130,
+    "nodes": 150,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
       "Social Community Building",
+      "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-10-16T04:30:40.102Z"
+    "lastchange": "2017-01-01T22:56:56.610Z"
   },
+  "timeline": [
+    {
+      "description": "Beginn Freifunk im Märkischen Kreis",
+      "timestamp": "2014-10-10"
+    },
+    {
+      "description": "Start eigener Fichtenfunk Serverinfrastruktur",
+      "timestamp": "2015-01-20"
+    }
+  ],
   "nodeMaps": [
     {
       "url": "https://map.freifunk-iserlohn.de/data/nodelist.json",
@@ -42,13 +53,26 @@
       "url": "http://firmware.freifunk-mk.de",
       "vpnaccess": "fwimage"
     },
+    "networks": {
+      "ipv6": [
+        {
+          "network": "2a03:2260:120::0/56"
+        }
+      ],
+      "ipv4": [
+        {
+          "network": "172.16.0.0/16"
+        }
+      ]
+    },
     "routing": [
       "batman-adv"
     ],
     "updatemode": [
+      "manual",
       "autoupdate"
     ],
     "legals": []
   },
-  "api": "0.4.13"
+  "api": "0.4.14"
 }
