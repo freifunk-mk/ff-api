@@ -1,6 +1,6 @@
 {
-  "name": "Freifunk Havler",
-  "url": "http://freifunk-halver.de/",
+  "name": "Freifunk Halver",
+  "url": "http://freifunk-mk.de/",
   "location": {
     "city": "Halver",
     "country": "DE",
@@ -13,7 +13,7 @@
   "metacommunity": "Fichtenfunk",
   "state": {
     "nodes": 25,
-    "lastchange": "2016-05-13T22:07:20.840Z",
+    "lastchange": "2019-10-28T21:03:20.840Z",
     "focus": []
   },
   "nodeMaps": [
