@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Neuenrade",
-  "url": "http://freifunk-neuenrade.de/",
+  "url": "http://freifunk-mk.de/",
   "location": {
     "city": "Neuenrade",
     "country": "DE",
@@ -38,7 +38,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon2016.1.2",
-      "url": "http://firmware.freifunk-mk.de/neuenrade/stable/",
+      "url": "http://firmware.freifunk-mk.de/ffnr/stable/",
       "vpnaccess": "automatic"
     },
     "routing": [
