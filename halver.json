@@ -38,7 +38,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon2016.1.2",
-      "url": "http://firmware.freifunk-mk.de/halver/stable/",
+      "url": "http://firmware.freifunk-mk.de/ffmk/stable/",
       "vpnaccess": "automatic"
     },
     "routing": [
