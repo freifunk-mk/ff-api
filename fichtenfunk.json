@@ -1,0 +1,270 @@
+{
+  "name": "Freifunk MK",
+  "url": "http://freifunk-mk.de",
+  "location": {
+    "city": "Iserlohn",
+    "country": "DE",
+    "lat": 51.373816410417,
+    "lon": 7.6984977722168,
+    "address": {
+      "Name": "Chaosconsulting e.V.",
+      "Street": "Alter Rathausplatz 12",
+      "Zipcode": "58636"
+    }
+  },
+  "additionalLocations": [
+    {
+      "city": "Altena",
+      "country": "DE",
+      "lat": 51.299254647856,
+      "lon": 7.6724052429199
+    },
+    {
+      "city": "Halver",
+      "country": "DE",
+      "lat": 51.187440063500084,
+      "lon": 7.4987268447875985
+    },
+    {
+      "city": "Hemer",
+      "country": "DE",
+      "lat": 51.38608428037602,
+      "lon": 7.765102386474609
+    },
+    {
+      "city": "Herscheid",
+      "country": "DE",
+      "lat": 51.178374462,
+      "lon": 7.744932175
+    },
+    {
+      "city": "Lüdenscheid",
+      "country": "DE",
+      "lat": 51.21587,
+      "lon": 7.63377
+    },
+    {
+      "city": "Meinerzhagen",
+      "country": "DE",
+      "lat": 51.10761773499613,
+      "lon": 7.637214660644531
+    },
+    {
+      "city": "Menden",
+      "country": "DE",
+      "lat": 51.43779,
+      "lon": 7.7953822
+    },
+    {
+      "city": "Nachrodt-Wiblingwerde",
+      "country": "DE",
+      "lat": 51.334606840,
+      "lon": 7.642621994
+    },
+    {
+      "city": "Neuenrade",
+      "country": "DE",
+      "lat": 51.286399870358636,
+      "lon": 7.7817535400390625
+    },
+    {
+      "city": "Plettenberg",
+      "country": "DE",
+      "lat": 50.99352222415205,
+      "lon": 8.106751441955565
+    },
+    {
+      "city": "Schalksmühle",
+      "country": "DE",
+      "lat": 51.240130482,
+      "lon": 7.531385422
+    },
+    {
+      "city": "Werdohl",
+      "country": "DE",
+      "lat": 51.257537319,
+      "lon": 7.763793468
+    }
+  ],
+  "contact": {
+    "email": "info@freifunk-mk.de"
+  },
+  "metacommunity": "Fichtenfunk",
+  "state": {
+    "nodes": 150,
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2017-01-01T22:56:56.610Z"
+  },
+  "timeline": [
+    {
+      "description": "Beginn Freifunk im Märkischen Kreis",
+      "timestamp": "2014-10-10"
+    },
+    {
+      "description": "Start eigener Fichtenfunk Serverinfrastruktur",
+      "timestamp": "2015-01-20"
+    }
+  ],
+  "nodeMaps": [
+    {
+      "url": "https://map-altena.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-altena.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-altena.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    },
+    {
+      "url": "https://map-hemer.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-hemer.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-hemer.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    },
+    {
+      "url": "https://map.freifunk-iserlohn.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-luedenscheid.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-luedenscheid.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-luedenscheid.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    },
+    {
+      "url": "https://map-meinerzhagen.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-meinerzhagen.freifunk-mk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-meinerzhagen.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    },
+    {
+      "url": "https://map-neuenrade.freifunk-mk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://map-neuenrade.freifunk-mk.de/",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://map-neuenrade.freifunk-mk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/#!v:m",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    },
+    {
+      "url": "https://mk.map.eulenfunk.de/#!v:g",
+      "interval": "1",
+      "technicalType": "meshviewer",
+      "mapType": "structural"
+    }
+  ],
+  "socialprojects": {
+    "number": 5
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://firmware.freifunk-mk.de",
+      "vpnaccess": "fwimage"
+    },
+    "networks": {
+      "ipv6": [
+        {
+          "network": "2a03:2260:120::0/56"
+        }
+      ],
+      "ipv4": [
+        {
+          "network": "172.16.0.0/16"
+        }
+      ]
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.4.16"
+}
