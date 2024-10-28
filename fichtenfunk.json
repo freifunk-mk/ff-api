@@ -6,11 +6,6 @@
     "country": "DE",
     "lat": 51.373816410417,
     "lon": 7.6984977722168,
-    "address": {
-      "Name": "Chaosconsulting e.V.",
-      "Street": "Alter Rathausplatz 12",
-      "Zipcode": "58636"
-    },
     "additionalLocations": [
       {
         "city": "Altena",
@@ -99,7 +94,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2017-01-01T22:56:56.610Z"
+    "lastchange": "2024-10-28T20:00:20.000Z"
   },
   "timeline": [
     {
@@ -109,129 +104,26 @@
     {
       "description": "Start eigener Fichtenfunk Serverinfrastruktur",
       "timestamp": "2015-01-20"
+    },
+    {
+      "description": "Komplett neuer Techstack für noch schnelleres und Zukunftstaugliches Freifunk",
+      "timestamp": "2022-08-30"
     }
   ],
   "nodeMaps": [
     {
-      "url": "https://map-altena.freifunk-mk.de/data/nodelist.json",
+      "url": "https://map.freifunk-mk.de/data/meshviewer.json",
       "interval": "1",
       "technicalType": "nodelist"
     },
     {
-      "url": "https://map-altena.freifunk-mk.de/#!v:m",
+      "url": "https://map.freifunk-mk.de/#!/de/map",
       "interval": "1",
       "technicalType": "meshviewer",
       "mapType": "geographical"
     },
     {
-      "url": "https://map-altena.freifunk-mk.de/#!v:g",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "structural"
-    },
-    {
-      "url": "https://mk.map.eulenfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://mk.map.eulenfunk.de/#!v:m",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://mk.map.eulenfunk.de/#!v:g",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "structural"
-    },
-    {
-      "url": "https://map-hemer.freifunk-mk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://map-hemer.freifunk-mk.de/#!v:m",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://map-hemer.freifunk-mk.de/#!v:g",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "structural"
-    },
-    {
-      "url": "https://map.freifunk-iserlohn.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://map-luedenscheid.freifunk-mk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://map-luedenscheid.freifunk-mk.de/#!v:m",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://map-luedenscheid.freifunk-mk.de/#!v:g",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "structural"
-    },
-    {
-      "url": "https://map-meinerzhagen.freifunk-mk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://map-meinerzhagen.freifunk-mk.de/#!v:m",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://map-meinerzhagen.freifunk-mk.de/#!v:g",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "structural"
-    },
-    {
-      "url": "https://map-neuenrade.freifunk-mk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://map-neuenrade.freifunk-mk.de/",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://map-neuenrade.freifunk-mk.de/#!v:g",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "structural"
-    },
-    {
-      "url": "https://mk.map.eulenfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://mk.map.eulenfunk.de/#!v:m",
-      "interval": "1",
-      "technicalType": "meshviewer",
-      "mapType": "geographical"
-    },
-    {
-      "url": "https://mk.map.eulenfunk.de/#!v:g",
+      "url": "https://map.freifunk-mk.de/#!/de/graph",
       "interval": "1",
       "technicalType": "meshviewer",
       "mapType": "structural"
